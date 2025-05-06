@@ -3,7 +3,7 @@
 This project contains a simply python script to change file extension from .jpeg to .png
 
 ## Requirements
-Pillow module
+Pillow module.
 
 `pip install pillow`
 
